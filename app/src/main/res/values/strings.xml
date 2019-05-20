@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">OnDotSystemsTest</string>
+    <string name="search">Search Image</string>
+    <string name="PIXABAY_API_KEY">12513907-26f43a64ac959bc0d1cd41fdb</string>
+    <string name="no_internet">Ops, we could not find an active internet connection…</string>
+    <string name="error">Ops, something is not right…</string>
+    <string name="retry">RETRY</string>
+    <string name="no_results">No results for the query :(</string>
+    <string name="like">Like</string>
+    <string name="favorite">Favorite</string>
+    <string name="comments">Comments</string>
+    <!--Authentication-->
+    <string name="auth_success">Authentication succeeded.</string>
+    <string name="auth_scan">Scan your finger</string>
+    <string name="auth_no_fingerprint">Your device does not have finger print scanner. Please type 1234 to authenticate.</string>
+    <string name="auth_no_fingerprint_reg">There are no finger prints registered on this device. Please register your finger from settings.</string>
+    <string name="auth_no_fingerprint_old">You are running older version of android that does not support finger print authentication. Please type 1234 to authenticate.</string>
+    <string name="auth_cant_recognize">Cannot recognize your finger print. Please try again.</string>
+    <string name="auth_cant_initialize">Cannot initialize finger print authentication. Please type 1234 to authenticate.</string>
+
+</resources>
