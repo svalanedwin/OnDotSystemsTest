@@ -1,9 +1,6 @@
-# PixaBay Image Viewer 
+# OnDotSystemTest - FingerPrintAuth & Pixabay Image Search
+An app authenticate using Finger print 
 An app that consumes the [PixaBay API](https://pixabay.com/api/docs/) and enables the user to look for images. 
-
-## Getting started
-Clone the repository and import the project in Android Studio, you can try the app installing the [`pixabayApp.apk`](https://github.com/gkaffka/pixabayapp/blob/master/pixabayApp.apk) available in the project root.
-You will also need to provide a key to access the Pixabay API, after getting the key, just put it in the `string.xml` file in the place of `YOUR_API_KEY_HERE`
 
 ## Dependencies
 The depdendencies for the project are described in the Gradle script `build.gradle` of the app, just sync the project in Android Studio and you are ready to go :)
@@ -19,5 +16,4 @@ List of third party libraries used in the project so far
 ## Running it
 You can [build and run](https://developer.android.com/tools/building/building-studio.html) the project using the Android Studio/Gradle. You need an [android emulator](http://developer.android.com/tools/devices/emulator.html) or a [real device](http://developer.android.com/tools/device.html) to test the build.
 
-## Screenshots
-![](app.gif)
+
